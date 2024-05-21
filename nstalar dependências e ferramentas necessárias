@@ -1,0 +1,1 @@
+pip install pandas prophet matplotlib scikit-learn flask gunicorn
