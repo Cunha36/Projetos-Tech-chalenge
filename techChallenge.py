@@ -24,7 +24,7 @@ def generate_insights(mae, mse, rmse):
     return insights
 
 # Carregar os dados
-data = load_data(r"C:\Users\David\Downloads\Brent.csv")
+data = load_data("Brent.csv")
 
 # Filtrar dados a partir de uma data específica
 start_date = '2020-01-01'
